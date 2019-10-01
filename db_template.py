@@ -1,3 +1,8 @@
+#Author: Boris Bauermeister
+#Email: Boris.Bauermeister@gmail.com
+#Simple MongoDB access class specified to readout and manipluate a data field.
+#HANDLE WITH CARE
+
 import pymongo
 import os
 import json
