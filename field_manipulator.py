@@ -1,5 +1,3 @@
-!/usr/bin/env python
-
 ###Author: Boris Bauermeister
 ###Email: Boris.Bauermeister@gmail.com
 
